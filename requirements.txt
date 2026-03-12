@@ -1,9 +1,25 @@
+# core
 torch
 numpy
 pandas
 networkx
 plotly
 arango
-langchain
-langchain-community
+rapidfuzz
+python-Levenshtein
+spacy>=3.7.0
+scispacy>=0.5.2
+en-core-sci-sm @ https://github.com/allenai/scispacy/releases/download/v0.5.2/en_core_sci_sm-0.5.2.tar.gz
+
+# langchain 0.2.x line (for compatibility with langchain-openai)
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-openai
+
+# OpenAI/python toolings & notebook
 openai
+ipython
+
+# dev / extras (useful)
+jupyterlab
+ipykernel
