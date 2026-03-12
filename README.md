@@ -225,33 +225,3 @@ We welcome contributions! Please:
 ## 📄 License
 
 This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- **Abdul Taufeeq M** - Lead Developer
-
-## 📧 Contact & Support
-
-- **Issues & Questions**: [GitHub Issues](https://github.com/AbdulTaufeeq01/Drug-Repurposing-Using-GraphRAG/issues)
-- **Email**: itstaufeeqmdu@gmail.com
-- **GitHub**: [@AbdulTaufeeq01](https://github.com/AbdulTaufeeq01)
-
----
-
-## ⭐ Citation
-
-If you use this project in your research, please cite:
-
-```bibtex
-@software{taufeeq2026drug_repurposing,
-  title={Drug Repurposing Using GraphRAG},
-  author={Taufeeq, Abdul},
-  year={2026},
-  url={https://github.com/AbdulTaufeeq01/Drug-Repurposing-Using-GraphRAG}
-}
-```
-
----
-
-**Last Updated:** March 2026  
-**Status:** Active Development
